@@ -4,7 +4,7 @@ This project focuses on building an X-ray image classification model to detect t
 
 ## Key Features:
 
-✅ Utilizes TensorFlow and Keras for deep learning.
+✅ Utilizes TensorFlow and Keras for deep learning.<br />
 ✅ Implements Convolutional Neural Networks (CNNs) for image classification.<br />
 ✅ Uses TPUs for high-performance model training.<br />
 ✅ Analyzes and visualizes model performance with Matplotlib and Pandas.<br />
